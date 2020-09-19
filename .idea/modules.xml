@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lmall.iml" filepath="$PROJECT_DIR$/.idea/lmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-bean/lmall-bean.iml" filepath="$PROJECT_DIR$/lmall-bean/lmall-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-interface/lmall-interface.iml" filepath="$PROJECT_DIR$/lmall-interface/lmall-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-order-web/lmall-order-web.iml" filepath="$PROJECT_DIR$/lmall-order-web/lmall-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-parent/lmall-parent.iml" filepath="$PROJECT_DIR$/lmall-parent/lmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-user/lmall-user.iml" filepath="$PROJECT_DIR$/lmall-user/lmall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-util-common/lmall-util-common.iml" filepath="$PROJECT_DIR$/lmall-util-common/lmall-util-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-util-service/lmall-util-service.iml" filepath="$PROJECT_DIR$/lmall-util-service/lmall-util-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lmall-util-web/lmall-util-web.iml" filepath="$PROJECT_DIR$/lmall-util-web/lmall-util-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lmall-bean" />
+        <module name="lmall-util-service" />
+        <module name="lmall-util-web" />
+        <module name="lmall-user" />
+        <module name="lmall-util-common" />
+        <module name="lmall-order-web" />
+        <module name="lmall-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lmall-bean" target="1.8" />
+      <module name="lmall-interface" target="1.8" />
+      <module name="lmall-order-web" target="1.8" />
+      <module name="lmall-parent" target="1.8" />
+      <module name="lmall-user" target="1.8" />
+      <module name="lmall-util-common" target="1.8" />
+      <module name="lmall-util-service" target="1.8" />
+      <module name="lmall-util-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lmall-order-web" options="" />
+      <module name="lmall-user" options="" />
+    </option>
+  </component>
+</project>
